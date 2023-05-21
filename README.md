@@ -3,3 +3,7 @@
 ## Salvando alterações no Git
 
 * uso do comando git restores
+
+* mais um item acrescentado para commitar
+
+* segundo item a mais para commitar
